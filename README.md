@@ -23,22 +23,6 @@ _Collaborate and work together on GitHub._
 
 All great projects start with collaboration. Pull requests are the foundation of teamwork on GitHub — and pull request reviews give you the ability to work together and discuss changes specific to a pull request by commenting, requesting changes, or approving.
 
-- **Who is this for**: Developers, new GitHub users, users new to Git, students, managers, teams.
-- **What you'll learn**: When and how to request a review; how to provide a review of someone else's pull request.
-- **What you'll build**: We'll be reviewing a pull request for a simple game.
-- **Prerequisites**: We assume you are familiar with creating branches, commits, and pull requests—you can learn this in our [Introduction to GitHub](https://github.com/skills/introduction-to-github) course.
-- **How long**: This course is five steps long and takes less than 30 minutes to complete.
-
-## How to start this course
-
-1. Right-click **Start course** and open the link in a new tab.
-   <br />[![start-course](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/skills/review-pull-requests/generate)
-2. In the new tab, follow the prompts to create a new repository.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   ![Create a new repository](https://user-images.githubusercontent.com/1221423/218594143-e60462b6-9f2a-4fa3-80de-063ac5429aab.png)
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
 </details>
 
 <!--
@@ -55,8 +39,6 @@ All great projects start with collaboration. Pull requests are the foundation of
 _Welcome to "Review pull requests"! :wave:_
 
 Let's get started by opening a pull request.
-
-**What is a pull request?**: Collaboration happens on a pull request. The pull request shows the changes in your branch to other people. This pull request is going to keep the changes you just made on your branch and propose applying them to the `main` branch.
 
 ### :keyboard: Activity: Create a pull request
 
@@ -241,14 +223,6 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You suggested changes to a pull request.
 - You applied suggested changes to a pull request.
 
-### What's next?
-
-- Try adding a [`CODEOWNERS`](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file to your project to automatically assign reviewers to pull requests.
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
 </details>
 
 <!--
@@ -257,7 +231,5 @@ Here's a recap of all the tasks you've accomplished in your repository:
 -->
 
 ---
-
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
